@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHealthShareUsageDescription
+NSHealthShareUsageDescription
+</key>
+	<string>This app reads your health data to display steps, weight, heart rate, and sleep.
+</string>
+	<key>NSHealthUpdateUsageDescription
+NSHealthUpdateUsageDescription
+</key>
+	<string>This app writes your steps and weight data to Apple Health securely.</string>
+</dict>
+</plist>
