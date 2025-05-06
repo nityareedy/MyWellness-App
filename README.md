@@ -60,9 +60,11 @@
 
 ## 🧰 Tech Stack
 
-- **SwiftUI** – Modern iOS UI framework
-- **HealthKit** – Apple health data access
-- **MVVM** – Simple and clean architecture
+SwiftUI – Modern, declarative framework for building responsive iOS interfaces
+
+HealthKit – Seamless access to users’ health and activity data (with appropriate permissions)
+
+MVVM – Simple, clean architectural pattern to separate UI (View) from business logic (ViewModel) and data (Model)
 
 ---
 
